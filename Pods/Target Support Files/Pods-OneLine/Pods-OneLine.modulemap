@@ -1,0 +1,6 @@
+framework module Pods_OneLine {
+  umbrella header "Pods-OneLine-umbrella.h"
+
+  export *
+  module * { export * }
+}
